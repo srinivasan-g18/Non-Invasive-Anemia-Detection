@@ -5,8 +5,10 @@ A low-cost, portable system that estimates hemoglobin (Hb) levels through the fi
 ![Status](https://img.shields.io/badge/status-prototype-yellow)
 ![Platform](https://img.shields.io/badge/platform-Arduino%20Uno-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
 ![Project Poster](project_poster.png)
+
+![Performance Comparison](performance_result.png)
+
 
 ---
 
